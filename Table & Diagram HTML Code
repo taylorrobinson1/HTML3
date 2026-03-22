@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CS200 Group 7 Report - Project 3</title>
+
+  <style>
+    body {
+      font-family: "Times New Roman", Times, serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    .page {
+      max-width: 900px;
+      margin: 40px auto;
+      text-align: center;
+      padding: 0 16px;
+    }
+
+    h1 {
+      margin: 0 0 8px 0;
+    }
+
+    h2 {
+      margin: 0 0 24px 0;
+      font-weight: normal;
+    }
+
+    table {
+      margin: 0 auto 28px auto;
+      border-collapse: collapse;
+      width: 100%;
+      max-width: 800px;
+    }
+
+    th, td {
+      border: 1px solid #000;
+      padding: 10px;
+      text-align: center;
+    }
+
+    th {
+      font-weight: bold;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="page">
+    <h1>CS200 Group 7 Report</h1>
+    <h2>Project 3</h2>
+
+    <!-- Table 1: Team Member Info -->
+    <h3> Team Members </h3>
+
+    <table>
+      <thead>
+        <tr>
+          <th style="background-color: #DC143C; color: white;">Name</th>
+          <th style="background-color: #DC143C; color: white;">CWID</th>
+          <th style="background-color: #DC143C; color: white;">Email</th>
+          <th style="background-color: #DC143C; color: white;">Hours</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Gina Kaiser</td>
+          <td>12399834</td>
+          <td>gdkaiser@crimson.ua.edu</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Candise Battin</td>
+          <td>12400623</td>
+          <td>cmbattin@crimson.ua.edu</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Taylor Robinson</td>
+          <td>12460985</td>
+          <td>trrobinson1@crimson.ua.edu</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Yuri Hernandez</td>
+          <td>12422979</td>
+          <td>yhernandez1@crimson.ua.edu</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Elias Stevenson</td>
+          <td>12545525</td>
+          <td>eastevenson@crimson.ua.edu</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Giovanni D'Ambrosio</td>
+          <td>12565846</td>
+          <td>gdambrosio@crimson.ua.edu</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Zane Turkson-Ocran</td>
+          <td>12401371</td>
+          <td>zkturksonocran@crimson.ua.edu</td>
+          <td>5</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <!-- Table 2: Responsibilities -->
+    <h3>Responsibilities</h3>
+
+    <table>
+      <thead>
+        <tr>
+          <th style="background-color: #DC143C; color: white;" > Name</th>
+          <th style="background-color: #DC143C; color: white;">Responsibility</th>
+          <th style="background-color: #DC143C; color: white;">Percentage</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Gina Kaiser</td>
+          <td>Team Leader, Member's System Class Diagram</td>
+          <td>14.3%</td>
+        </tr>
+        <tr>
+          <td>Candise Battin</td>
+          <td>Member's System Class Diagram</td>
+          <td>14.3%</td>
+        </tr>
+        <tr>
+          <td>Taylor Robinson</td>
+          <td> Header Table,Distribution Table,Member's System Class Diagram</td>
+          <td>14.3%</td>
+        </tr>
+        <tr>
+          <td>Yuri Hernandez</td>
+          <td>Member's System Class Diagram</td>
+          <td>14.3%</td>
+        </tr>
+        <tr>
+          <td>Elias Stevenson</td>
+          <td>Member's System Class Diagram</td>
+          <td>14.3%</td>
+        </tr>
+        <tr>
+          <td>Giovanni D'Ambrosio</td>
+          <td>Member's System Class Diagram</td>
+          <td>14.3%</td>
+        </tr>
+        <tr>
+          <td>Zane Turkson-Ocran</td>
+          <td>Member's System Class Diagram</td>
+          <td>14.3%</td>
+        </tr>
+      </tbody>
+    </table>
+    
+<h2>Class Diagram</h2>
+
+<img src="Class Diagram Image/TaylorRobinsonClassDiagram.png" alt="Class Diagram" width="900">
+
+   
+  </div>
+</body>
+</html>
